@@ -183,7 +183,7 @@ PRs welcomed!
 
 ### Linguistics
 
-- [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing) - A library that provides primitives for creating glossing rules according to Leipzig.
+- [leipzig-gloss](https://code.everydayimshuflin.com/greg/typst-lepizig-glossing) - A library that provides primitives for creating glossing rules according to Leipzig.
 - [typst-ipa](https://github.com/imatpot/typst-ipa) - 🔄 ASCII / IPA conversion for Typst
 
 ### Mathematics
